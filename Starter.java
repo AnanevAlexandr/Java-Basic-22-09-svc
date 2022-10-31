@@ -1,5 +1,5 @@
 public class Starter{
 	public static void main(String[] agrs){
-		System.out.println("Hello,Java")
+		System.out.println("Hello,World")
 	}
 }
